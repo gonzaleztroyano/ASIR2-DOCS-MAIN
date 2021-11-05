@@ -11,6 +11,7 @@
 
    Añadimos al final de la línea: |br|
 
+.. admonition::
 
 .. image :: ../images/raid/raid4.png
    :width: 500

@@ -2,7 +2,7 @@
 
 # -- Project information
 
-project = ' CFGS Administración de Sistemas Operativos en RedO'
+project = ' CFGS Administración de Sistemas Operativos en Red'
 copyright = '2021, Pablo González, CC BY 2.5 ES'
 author = 'Pablo González Troyano - 2º ASIR - IES VILLABLANCA'
 
