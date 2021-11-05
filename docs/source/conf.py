@@ -2,9 +2,9 @@
 
 # -- Project information
 
-project = 'NOMBRE DEL PROYECTO'
+project = ' CFGS Administración de Sistemas Operativos en RedO'
 copyright = '2021, Pablo González, CC BY 2.5 ES'
-author = 'Pablo González Troyano - (Opt. Curso) - (Opt. IES)'
+author = 'Pablo González Troyano - 2º ASIR - IES VILLABLANCA'
 
 release = '0.1'
 version = '0.1'

@@ -1,18 +1,7 @@
-#####################
-Título del proyecto
-#####################
+######################
+Documentación de ASIR
+######################
 
-Apartado 1
-===========
+Esta página web contiene documentación variada Ciclo Formativo de Grado Superior en Administración de Sistemas Operativos en Red.
 
-.. Añadimos así para el PDF. 
 
-   :maxdepth: 2
-   :hidden:
-   :caption: Apartado 1
-
-   introducción
-
-| 1. :doc:`introducción`
-
-.. El TOC está oculto para que no se muestre en la página, pero sí en el menú 
