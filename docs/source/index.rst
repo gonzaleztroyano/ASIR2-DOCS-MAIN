@@ -44,3 +44,13 @@ Haz clic en la siguiente imagen para acceder a la documentación:
        <a href="https://github.com/gonzaleztroyano/ASIR1-GBD-practicaglobal#contenido-del-repositorio" rel="noopener"><img src="https://raw.githubusercontent.com/gonzaleztroyano/ASIR2-DOCS-MAIN/main/docs/source/images/ASIR1-GBD-Logo,png.png" alt=""></a>
     </div>
 
+Script gestión de hosting IAW 
+================================
+
+Haz clic en la siguiente imagen para acceder a la documentación y a los scripts del proyecto:
+
+.. raw:: html
+
+    <div style="position: relative; margin: 2em; padding-bottom: 5%; height: 0; overflow: hidden; max-width: 100%; height: auto;">
+       <a href="https://github.com/gonzaleztroyano/ASIR2-IAW-SCRIPT" rel="noopener"><img src="https://raw.githubusercontent.com/gonzaleztroyano/ASIR2-DOCS-MAIN/main/docs/source/images/ASIR2-iaw-script.png" alt=""></a>
+    </div>
