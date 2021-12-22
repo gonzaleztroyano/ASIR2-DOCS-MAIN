@@ -7,7 +7,7 @@ Esta página web contiene documentación variada del Ciclo Formativo de Grado Su
 
 .. admonition:: Licencia
 
-   | Esta obra se publica bajo la licenca `Creative Commons BY 2.5 ES <https://creativecommons.org/licenses/by/2.5/es/legalcode.es>`_.
+   | Esta obra se publica bajo la licenca `Atribución 4.0 Internacional (CC BY 4.0) <https://creativecommons.org/licenses/by/4.0/deed.en>`_.
    | Autor: Pablo González Troyano
 
 Proyecto Integrado de Seguridad y Alta Disponibilidad - Primer Trimestre
