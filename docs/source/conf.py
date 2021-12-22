@@ -6,8 +6,8 @@ project = ' CFGS Administración de Sistemas Operativos en Red'
 copyright = '2021, Pablo González, CC BY 4.0'
 author = 'Pablo González Troyano - 2º ASIR - IES VILLABLANCA'
 
-release = '0.1'
-version = '0.1'
+release = '0.4'
+version = '0.4'
 
 # -- General configuration
 
@@ -36,7 +36,7 @@ html_theme = 'sphinx_rtd_theme'
 epub_show_urls = 'footnote'
 
 # -- Modificar el FAVICON -- 
-html_favicon = 'URL FAVICON'
+html_favicon = 'https://avatars.githubusercontent.com/u/44492590?v=4'
 
 # -- Quitar las flechitas entre las páginas -- 
 html_theme_options = {
@@ -44,5 +44,12 @@ html_theme_options = {
     'analytics_id': 'UA-97273241-13',
     'analytics_anonymize_ip': True,
     'canonical_url': 'https://asir.gonzaleztroyano.es/',
-    'github_url':'https://github.com/gonzaleztroyano/ASIR2-DOCS-MAIN'
+    'collapse_navigation': True
+}   
+
+html_context = {
+  'display_github': True,
+  'github_user': 'gonzaleztroyano',
+  'github_repo': 'ASIR2-DOCS-MAIN',
+  'github_version': 'main/docs/source/'
 }
