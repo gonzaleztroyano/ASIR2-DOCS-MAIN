@@ -53,3 +53,7 @@ html_context = {
   'github_repo': 'ASIR2-DOCS-MAIN',
   'github_version': 'main/docs/source/'
 }
+
+html_js_files = [
+    'images/stats.js',
+]
