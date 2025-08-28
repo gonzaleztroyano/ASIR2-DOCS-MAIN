@@ -36,13 +36,11 @@ html_theme = 'sphinx_rtd_theme'
 epub_show_urls = 'footnote'
 
 # -- Modificar el FAVICON -- 
-html_favicon = 'https://avatars.githubusercontent.com/u/44492590?v=4'
+html_favicon = './images/avatar.png'
 
 # -- Quitar las flechitas entre las páginas -- 
 html_theme_options = {
     'prev_next_buttons_location': 'none',
-    'analytics_id': 'UA-97273241-13',
-    'analytics_anonymize_ip': True,
     'canonical_url': 'https://asir.gonzaleztroyano.es/',
     'collapse_navigation': True
 }   
@@ -55,5 +53,7 @@ html_context = {
 }
 
 html_js_files = [
-    'custom.js',
+    'matomo.js',
 ]
+
+html_static_path = ['_static', './images']
